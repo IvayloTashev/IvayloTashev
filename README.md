@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Ivaylo Tashev
 
-<!--
-**IvayloTashev/IvayloTashev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring front-end developer with a strong foundation in JavaScript, React, and Angular.  
+With a solid background in procurement and supply chain, I’m currently seeking to enter the IT industry through an **entry-level Junior Front-End Developer** position where I can grow, contribute to real-world projects, and apply my problem-solving mindset, attention to detail, and adaptability while continuing to learn.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+
+## Certificates
+
+- [Programming Basics](https://softuni.bg/certificates/details/175073/3911dbaf) – SoftUni  
+- [Programming Fundamentals with JavaScript](https://softuni.bg/certificates/details/194333/670487a6) – SoftUni  
+- [JS Advanced](https://softuni.bg/certificates/details/203196/2179fa06) – SoftUni  
+- [JS Applications](https://softuni.bg/certificates/details/209480/e284fb04) – SoftUni  
+- [JS Back-End](https://softuni.bg/certificates/details/218252/088ccbca) – SoftUni  
+- [React](https://softuni.bg/certificates/details/223034/78f8ced3) – SoftUni  
+- [HTML & CSS](https://softuni.bg/certificates/details/228640/01aea762) – SoftUni  
+- [Angular](https://softuni.bg/certificates/details/232539/049b1293) – SoftUni  
