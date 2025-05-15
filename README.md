@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Ivaylo Tashev
+# 👋 Hi, I'm Ivaylo
 
-I'm an aspiring front-end developer with a strong foundation in JavaScript, React, and Angular.  
-With a solid background in procurement and supply chain, I’m currently seeking to enter the IT industry through an **entry-level Junior Front-End Developer** position where I can grow, contribute to real-world projects, and apply my problem-solving mindset, attention to detail, and adaptability while continuing to learn.
+I'm an front-end enthusiast with a strong foundation in JavaScript, React, and Angular.  
+With a solid background in procurement and supply chain, I’m currently seeking to enter the IT industry through an entry-level Front-End role where I can grow, contribute to real-world projects, and apply my problem-solving mindset, attention to detail, and adaptability while continuing to learn.
 
 
 ## Skills
